@@ -2,8 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-var romanToInt = function(s) {
-
+var romanToInt = function(s) { 
     let result=0;
     let obj = {
     I: 1,
